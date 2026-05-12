@@ -21,12 +21,6 @@ para interfaces modernas e responsivas. Sempre em busca de boas práticas e cód
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
-
-## 📊 GitHub Stats
-
-![Alanis GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanis-santos&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanis-santos&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
