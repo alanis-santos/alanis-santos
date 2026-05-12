@@ -25,8 +25,8 @@ para interfaces modernas e responsivas. Sempre em busca de boas práticas e cód
 
 ## 📊 GitHub Stats
 
-![Alanis GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanissantos&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanissantos&layout=compact&theme=tokyonight&hide_border=true)
+![Alanis GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanis-santos&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanis-santos&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
